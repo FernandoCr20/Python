@@ -1,0 +1,7 @@
+arquivo = open("texto.txt", "r")
+print(arquivo.read())
+#print(arquivo.seek(0))
+print(arquivo.tell())
+#print(arquivo.read(8))
+arquivo.close()
+print(arquivo.closed)

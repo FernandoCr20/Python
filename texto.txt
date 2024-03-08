@@ -1,10 +1,4 @@
-Java
-C
+Java, R, Python, C
 C++
-C#
-Javascript
-Python
-Rubi
-Cobol
-Fortran
-r
+Ruby
+PHP
